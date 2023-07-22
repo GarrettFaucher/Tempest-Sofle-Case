@@ -34,6 +34,7 @@ A 3D printed, case for the Sofle v2.0w keyboard
 * Removed wrist rest support
 * Enlarged hole for nice!nano and switch
 * Added removable nice!view cover
+* Added slot for 450mAh 403040 battery
 
 ## Please note
 
